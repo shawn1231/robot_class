@@ -5,4 +5,4 @@ The code in this repository is meant to help students enrolled in ME401/ME5501 R
 
 Much of this code has been borrowed from various online tutorials.  Specific citations are given in the source code when code has been substantially copied from an outside source.
 
-Much of this code is original work or substantially modified code originally borrowed from various sources.  Code on this repository was written by Travis Fields, Shawn Herrington, Jeff Renzelman and Josh Harp.
+The rest of the code in this repository was written by Travis Fields, Shawn Herrington, Jeff Renzelman and Josh Harp.
