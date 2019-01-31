@@ -1,0 +1,8 @@
+prefix=/home/smhhgf/shawn_ws/devel
+
+Name: turtlebot3_slam
+Description: Description of turtlebot3_slam
+Version: 1.1.0
+Cflags: -I/home/smhhgf/shawn_ws/src/turtlebot3/turtlebot3_slam/include
+Libs: -L/home/smhhgf/shawn_ws/devel/lib 
+Requires: roscpp sensor_msgs
