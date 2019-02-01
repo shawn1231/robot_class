@@ -1,0 +1,11 @@
+<launch>
+
+<node pkg="beginner_tutorials" name="position_node" type="position_data_demo_with_globals.py">
+
+</node>
+
+<node pkg="quat_2_eul" name="quat2eul" type="quat_2_eul.py"> 
+
+</node>
+
+</launch>
